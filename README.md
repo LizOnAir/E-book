@@ -20,9 +20,11 @@ Access files in [CAD folder](https://github.com/LizOnAir/E-book/tree/main/CAD).
 Here's my PCB! It was made in KiCad. 
 ### Schematic
 Main board
+
 <img width="1055" height="735" alt="Screenshot 2026-05-19 at 6 37 28 PM" src="https://github.com/user-attachments/assets/02629969-65d5-4cd3-9678-1fcd09d054c9" />
 
 E-ink Display
+
 <img width="664" height="412" alt="Screenshot 2026-05-19 at 6 37 42 PM" src="https://github.com/user-attachments/assets/eeebb682-6bc6-4947-b870-c1dc84e48073" />
 
 ### PCB
